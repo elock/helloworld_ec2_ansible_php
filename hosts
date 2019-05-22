@@ -1,0 +1,2 @@
+[hosts]
+insert-public-dns-here ansible_ssh_user=ec2-user

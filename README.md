@@ -2,7 +2,7 @@
 A very simple PHP app that is deployed to an EC2 Red Hat (ami-079596bf7a949ddf8)
 
 # Requirements
-In order for this to work, you'll need to have an Amazon EC2 Red Hat instance running. Copy and paste the Public DNS for your EC2 instance in the hosts file where it says insert-public-dns-here.
+In order for this to work, you'll need to have an Amazon EC2 Red Hat instance running. Copy and paste the Public DNS for your EC2 instance in the hosts file where it says insert-public-dns-here. The user specified is the default EC2 user.
 
 You'll also need the key pair .pem file generated when you started the EC2 instance, or one that you've previously saved. Make sure it's in your .ssh directory.
 
